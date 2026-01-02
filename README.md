@@ -97,8 +97,8 @@ npm run dev
 2. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 3. Login with DummyJSON credentials:
-   - Username: `kminchelle` (or any valid DummyJSON username)
-   - Password: `0lelplR` (or corresponding password)
+   - Username: `emilys` (or any valid DummyJSON username)
+   - Password: `emilyspass` (or corresponding password)
 
 ### Available Scripts
 
