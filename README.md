@@ -67,7 +67,7 @@ A modern, responsive admin dashboard built with Next.js, Material-UI (MUI), Zust
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/vedika310/HELP-STUDY-ABROAD.git
 cd help-study-abroad
 ```
 
